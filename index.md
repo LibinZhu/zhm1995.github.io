@@ -4,8 +4,12 @@
 
 ### About me
 
-I am currently a Ph.D. candidate in Computer Science and Engineering at University of California, San Diego. I am luckily adivised by [Dr. Mikhail Belkin](http://misha.belkin-wang.org/). 
-I am interested in theoretical machine learning problems. Recently I have focused on understanding optimization and generalization for wide neural networks.
+<img align="left" src="./fig.jpg" width=30% height=30%> 
+I am currently a Ph.D. candidate in Computer Science and Engineering at University of California, San Diego (UCSD). I am luckily adivised by [Dr. Mikhail Belkin](http://misha.belkin-wang.org/). 
+I am interested in theoretical machine learning problems. Recently, I have focused on understanding optimization and generalization for wide neural networks. One of the interesting questions is *"Can Neural Tangent Kernel (NTK) answer the mystery of neural networks?"*
+
+
+
 
 #### Email:
 
