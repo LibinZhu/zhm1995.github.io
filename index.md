@@ -7,6 +7,8 @@
 I am currently a Ph.D. candidate in Computer Science and Engineering at University of California, San Diego. I am luckily adivised by [Dr. Mikhail Belkin](http://misha.belkin-wang.org/). 
 I am interested in machine learning theory. Recently I have focused on understanding optimization and generalization for wide neural networks.
 
+#### Email: l5zhu at ucsd dot edu
+
 ### Papers
 
 - L Zhu, C Liu, A Radhakrishnan, M Belkin, [Quadratic models for understanding neural network dynamics](https://arxiv.org/pdf/2205.11787.pdf). Pre-printed.
