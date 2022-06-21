@@ -1,6 +1,3 @@
-# Libin Zhu's Homepage
-
-
 
 ### About me
 
