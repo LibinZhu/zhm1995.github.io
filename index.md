@@ -4,7 +4,7 @@
 
 ### Markdown
 
-I am currently a Ph.D. candidate in Computer Science and Engineering at University of California, San Diego. I am luckily adiviced by Dr.Mikhail Belkin. 
+I am currently a Ph.D. candidate in Computer Science and Engineering at University of California, San Diego. I am luckily adiviced by Dr. Mikhail Belkin. 
 
 # Header 1
 ## Header 2
